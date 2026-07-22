@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Kirill</h1>
 
 <h3 align="center">
-Backend-focused Fullstack Developer from Russia 🇷🇺
+  Backend-focused Fullstack Developer from Russia 🇷🇺
 </h3>
 
 <p align="center">
-4 years of coding • TypeScript ecosystem • Rust enthusiast
+  4 years of coding • TypeScript ecosystem • Rust enthusiast
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kazuha046&style=flat-square&color=blue" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/kazuha046?style=flat-square" />
-<img src="https://img.shields.io/github/stars/kazuha046?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=kazuha046&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kazuha046?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/kazuha046?style=flat-square" />
 </p>
 
 ---
@@ -85,13 +85,8 @@ Currently I'm working on several personal projects while improving my knowledge 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=kazuha046&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" />
-  </a>
-
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kazuha046&layout=compact&langs_count=6&theme=github_dark_dimmed" />
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api?username=kazuha046&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" />
+   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kazuha046&layout=compact&langs_count=6&theme=github_dark_dimmed" />
 </p>
 
 ---
