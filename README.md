@@ -9,9 +9,9 @@ Backend-focused Fullstack Developer from Russia 🇷🇺
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mrkirill046&style=flat-square&color=blue" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/mrkirill046?style=flat-square" />
-<img src="https://img.shields.io/github/stars/mrkirill046?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=kazuha046&style=flat-square&color=blue" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/kazuha046?style=flat-square" />
+<img src="https://img.shields.io/github/stars/kazuha046?style=flat-square" />
 </p>
 
 ---
@@ -86,9 +86,8 @@ Currently I'm working on several personal projects while improving my knowledge 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://test-badges.vercel.app/api?username=mrkirill046&show_icons=true&theme=tokyonight&hide=issues&hide_title=true"/>
-
-<img height="170" src="https://test-badges.vercel.app/api/top-langs/?username=mrkirill046&layout=compact&theme=tokyonight"/>
+  <img height="195" scr="https://github-stats-extended.vercel.app/api?username=kazuha046&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=github_dark_dimmed"/>
+  <img height="195" scr="https://github-stats-extended.vercel.app/api/top-langs?username=kazuha046&layout=compact&langs_count=6&theme=github_dark_dimmed"/>
 </p>
 
 ---
